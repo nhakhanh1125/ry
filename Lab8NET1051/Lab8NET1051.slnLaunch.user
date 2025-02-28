@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Bai1Lab8NET1051\\Bai1Lab8NET1051.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ClientProduct\\ClientProduct.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

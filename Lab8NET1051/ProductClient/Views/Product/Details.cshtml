@@ -1,0 +1,20 @@
+﻿@model ProductClient.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<h2>Chi tiết sản phẩm</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h4>ID: @Model.Id</h4>
+        <h4>Tên sản phẩm: @Model.Name</h4>
+        <h4>Giá: @Model.Price VNĐ</h4>
+        <h4>Mô tả: @Model.Description</h4>
+    </div>
+    <div class="card-footer">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Chỉnh sửa</a>
+        <a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>
+    </div>
+</div>

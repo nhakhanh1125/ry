@@ -1,0 +1,6 @@
+@Bai1Lab8NET1051_HostAddress = http://localhost:5106
+
+GET {{Bai1Lab8NET1051_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

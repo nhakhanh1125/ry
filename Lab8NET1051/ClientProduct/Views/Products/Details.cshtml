@@ -1,0 +1,12 @@
+﻿@model ProductClient.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<h2>Chi tiết sản phẩm</h2>
+<p><strong>ID:</strong> @Model.Id</p>
+<p><strong>Tên:</strong> @Model.Name</p>
+<p><strong>Giá:</strong> @Model.Price</p>
+<p><strong>Mô tả:</strong> @Model.Description</p>
+<a class="btn btn-secondary" href="@Url.Action("Index")">Quay lại</a>
