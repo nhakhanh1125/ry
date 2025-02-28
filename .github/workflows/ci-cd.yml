@@ -24,7 +24,7 @@ jobs:
         run: dotnet restore
 
       - name: 🚀 Build project
-        run: dotnet build cd ./ci-cd
+        run: dotnet build  ./ci-cd
 
   test:
     runs-on: ubuntu-latest
@@ -42,7 +42,7 @@ jobs:
         run: dotnet restore
 
       - name: 🧪 Run Unit Tests
-        run: dotnet test cd ./ci-cd
+        run: dotnet test ./ci-cd
 
   deploy:
     runs-on: ubuntu-latest
