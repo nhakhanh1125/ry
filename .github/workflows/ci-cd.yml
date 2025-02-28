@@ -24,7 +24,7 @@ jobs:
         run: dotnet restore
 
       - name: 🚀 Build project
-        run: dotnet build  ./ci-cd
+        run: dotnet build  cd $env:GITHUB_WORKSPACE\Project
 
   test:
     runs-on: ubuntu-latest
@@ -42,7 +42,7 @@ jobs:
         run: dotnet restore
 
       - name: 🧪 Run Unit Tests
-        run: dotnet test ./ci-cd
+        run: dotnet test cd $env:GITHUB_WORKSPACE\Project
 
   deploy:
     runs-on: ubuntu-latest
