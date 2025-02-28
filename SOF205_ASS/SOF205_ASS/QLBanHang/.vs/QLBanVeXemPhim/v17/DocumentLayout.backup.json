@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54133989-B2D6-40B5-BDED-E263A5327399}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\dal\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54133989-B2D6-40B5-BDED-E263A5327399}|DAL\\DAL.csproj|solutionrelative:dal\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormChonGhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\Connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411E5806-EDD9-4FF0-98EB-7B094C6B8561}|DTO\\DTO.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\dto\\dto_phim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411E5806-EDD9-4FF0-98EB-7B094C6B8561}|DTO\\DTO.csproj|solutionrelative:dto\\dto_phim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54133989-B2D6-40B5-BDED-E263A5327399}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\dal\\dal_phim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54133989-B2D6-40B5-BDED-E263A5327399}|DAL\\DAL.csproj|solutionrelative:dal\\dal_phim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54133989-B2D6-40B5-BDED-E263A5327399}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\dal\\dal_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54133989-B2D6-40B5-BDED-E263A5327399}|DAL\\DAL.csproj|solutionrelative:dal\\dal_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411E5806-EDD9-4FF0-98EB-7B094C6B8561}|DTO\\DTO.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\dto\\dto_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411E5806-EDD9-4FF0-98EB-7B094C6B8561}|DTO\\DTO.csproj|solutionrelative:dto\\dto_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54133989-B2D6-40B5-BDED-E263A5327399}|DAL\\DAL.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\dal\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54133989-B2D6-40B5-BDED-E263A5327399}|DAL\\DAL.csproj|solutionrelative:dal\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411E5806-EDD9-4FF0-98EB-7B094C6B8561}|DTO\\DTO.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\dto\\dto_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411E5806-EDD9-4FF0-98EB-7B094C6B8561}|DTO\\DTO.csproj|solutionrelative:dto\\dto_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411E5806-EDD9-4FF0-98EB-7B094C6B8561}|DTO\\DTO.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\dto\\dto_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411E5806-EDD9-4FF0-98EB-7B094C6B8561}|DTO\\DTO.csproj|solutionrelative:dto\\dto_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\9a24a805f7342441137299387eb6d8d2b04a478023097acb10ee501cae7acebe\\FormDangNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\os\\desktop\\da1\\sof205_ass (1) - copy\\sof205_ass (1) - copy\\sof205_ass\\sof205_ass\\gui\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\gui\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDangNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\os\\desktop\\da1\\sof205_ass (1) - copy\\sof205_ass (1) - copy\\sof205_ass\\sof205_ass\\gui\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\gui\\formkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\gui\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FDK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\gui\\fdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\gui\\formdoimatkhau1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormThongKe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormKhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormSanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\os\\desktop\\da1\\sof205_ass(chu\u1EA9n)\\sof205_ass(chu\u1EA9n)\\gui\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDatVe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\os\\desktop\\da1\\sof205_ass(chu\u1EA9n)\\sof205_ass(chu\u1EA9n)\\gui\\formdatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\os\\desktop\\da1\\sof205_ass(chu\u1EA9n)\\sof205_ass(chu\u1EA9n)\\gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 165,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\Connect.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\Connect.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\Connect.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\Connect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:24:10.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormChonGhe.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormChonGhe.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormChonGhe.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormChonGhe.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormChonGhe.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:53:28.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormChonGhe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormChonGhe.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormChonGhe.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormChonGhe.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormChonGhe.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:53:27.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormDatVe.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDatVe.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDatVe.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDatVe.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDatVe.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:51:55.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormDatVe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDatVe.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDatVe.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDatVe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDatVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:51:54.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO_Phim.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DTO\\DTO_Phim.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_Phim.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DTO\\DTO_Phim.cs",
+              "RelativeToolTip": "DTO\\DTO_Phim.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAywCUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:13:07.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL_Phim.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\DAL_Phim.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_Phim.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\DAL_Phim.cs",
+              "RelativeToolTip": "DAL\\DAL_Phim.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:00:43.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS(Chu\u1EA9n)\\SOF205_ASS(Chu\u1EA9n)\\GUI\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:58:36.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:15:09.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormSanPham.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormSanPham.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormSanPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:14:25.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormThongKe.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormThongKe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Form1.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAewIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDangNhap.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDangNhap.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\Connect.cs",
+              "RelativeDocumentMoniker": "DAL\\Connect.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\Connect.cs",
+              "RelativeToolTip": "DAL\\Connect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormDoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:38:24.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL_TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\DAL_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\DAL_TaiKhoan.cs",
+              "RelativeToolTip": "DAL\\DAL_TaiKhoan.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormKhachHang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormKhachHang.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTO_TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DTO\\DTO_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DTO\\DTO_TaiKhoan.cs",
+              "RelativeToolTip": "DTO\\DTO_TaiKhoan.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormNhanVien.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DTO_Hang.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DTO\\DTO_Hang.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_Hang.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DTO\\DTO_Hang.cs",
+              "RelativeToolTip": "DTO\\DTO_Hang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FDK.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FDK.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FDK.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FDK.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FDK.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FDK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FDK.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FDK.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FDK.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FDK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\App.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\App.config",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\App.config",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-11T07:18:15.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GUI",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\GUI.csproj",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\GUI.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\GUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-10T14:14:58.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormDoiMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DAL_KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\DAL_KhachHang.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_KhachHang.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DAL\\DAL_KhachHang.cs",
+              "RelativeToolTip": "DAL\\DAL_KhachHang.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAawBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DTO_KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DTO\\DTO_KhachHang.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_KhachHang.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\K\u1EF2 SPR25\\SOF3042_KI\u1EC2MTH\u1EECN\u00C2NGCAOC#\\SOF205_ASS\\SOF205_ASS\\QLBanHang\\DTO\\DTO_KhachHang.cs",
+              "RelativeToolTip": "DTO\\DTO_KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormDoiMatKhau1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau1.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormDoiMatKhau1.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau1.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA4wCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormDoiMatKhau.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.Designer.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormDoiMatKhau.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormThongKe.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormThongKe.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormThongKe.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\9a24a805f7342441137299387eb6d8d2b04a478023097acb10ee501cae7acebe\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9a24a805f7342441137299387eb6d8d2b04a478023097acb10ee501cae7acebe\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\9a24a805f7342441137299387eb6d8d2b04a478023097acb10ee501cae7acebe\\FormDangNhap.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9a24a805f7342441137299387eb6d8d2b04a478023097acb10ee501cae7acebe\\FormDangNhap.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:02:56.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormKhachHang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormKhachHang.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormKhachHang.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormKhachHang.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAYwFQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormNhanVien.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormNhanVien.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormNhanVien.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormSanPham.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormSanPham.cs",
+              "ToolTip": "C:\\Users\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormSanPham.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OS\\Desktop\\DA1\\SOF205_ASS (1) - Copy\\SOF205_ASS (1) - Copy\\SOF205_ASS\\SOF205_ASS\\GUI\\FormSanPham.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwDIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:13:58.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

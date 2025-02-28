@@ -1,0 +1,294 @@
+D:\SOF205_ASS\GUI\bin\Debug\GUI.exe.config
+D:\SOF205_ASS\GUI\bin\Debug\GUI.exe
+D:\SOF205_ASS\GUI\bin\Debug\GUI.pdb
+D:\SOF205_ASS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\SOF205_ASS\GUI\obj\Debug\GUI.Form1.resources
+D:\SOF205_ASS\GUI\obj\Debug\GUI.FormDangNhap.resources
+D:\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+D:\SOF205_ASS\GUI\obj\Debug\GUI.FormNhanVien.resources
+D:\SOF205_ASS\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\SOF205_ASS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\SOF205_ASS\GUI\obj\Debug\GUI.exe
+D:\SOF205_ASS\GUI\obj\Debug\GUI.pdb
+D:\SOF205_ASS\GUI\obj\Debug\GUI.FormKhachHang.resources
+D:\SOF205_ASS\GUI\obj\Debug\GUI.FormSanPham.resources
+D:\SOF205_ASS\GUI\obj\Debug\GUI.FormThongKe.resources
+D:\SOF205_ASS\GUI\bin\Debug\BUS.dll
+D:\SOF205_ASS\GUI\bin\Debug\DTO.dll
+D:\SOF205_ASS\GUI\bin\Debug\DAL.dll
+D:\SOF205_ASS\GUI\bin\Debug\BUS.pdb
+D:\SOF205_ASS\GUI\bin\Debug\DTO.pdb
+D:\SOF205_ASS\GUI\bin\Debug\DAL.pdb
+D:\SOF205_ASS\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.exe.config
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.exe
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.pdb
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\BUS.dll
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DTO.dll
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DAL.dll
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\BUS.pdb
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DTO.pdb
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DAL.pdb
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.Form1.resources
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDangNhap.resources
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormKhachHang.resources
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormNhanVien.resources
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormSanPham.resources
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormThongKe.resources
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.exe
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.pdb
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FDK.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DTO.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DAL.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DTO.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DAL.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FDK.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormNhanVien.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormThongKe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormPhimTrucTuyen.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau1.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.exe.config
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.exe
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.pdb
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DAL.dll
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DTO.dll
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DAL.pdb
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DTO.pdb
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FDK.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormPhimTrucTuyen.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau1.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormNhanVien.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormThongKe.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.exe
+C:\Users\OS\Desktop\DA1\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DAL.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DTO.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DAL.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\bin\Debug\DTO.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FDK.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormPhimTrucTuyen.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDN.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau1.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormThongKe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormDatVe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (2)\SOF205_ASS (1) - Copy\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\GUI\obj\Debug\GUI.FormChonGhe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FDK.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormChonGhe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDatVe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormPhimTrucTuyen.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDN.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau1.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormThongKe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.pdb
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe.config
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.pdb
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.dll
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.dll
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.pdb
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.pdb
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FDK.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormChonGhe.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDatVe.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormPhimTrucTuyen.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDN.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau1.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormThongKe.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.exe
+C:\Users\OS\Desktop\DA1\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FDK.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormChonGhe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDatVe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormPhimTrucTuyen.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDN.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau1.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormThongKe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormXacNhanVe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FDK.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormChonGhe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDatVe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormPhimTrucTuyen.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDN.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau1.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormThongKe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormXacNhanVe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\itextsharp.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\itextsharp.xml
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe.config
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.exe
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\GUI.pdb
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.dll
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.dll
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\itextsharp.dll
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DAL.pdb
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\DTO.pdb
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\bin\Debug\itextsharp.xml
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormChonGhe.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDatVe.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormPhimTrucTuyen.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDangNhap.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDN.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoiMatKhau1.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormKhachHang.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormSanPham.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormThongKe.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormXacNhanVe.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.exe
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.pdb
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FQLNV.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FQuanLy.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormPhim.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormPhong.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FSuat.resources
+D:\Hoc\CNTT\PRO131\SOF205_ASS(Chuẩn) (2)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn) (1)\SOF205_ASS(Chuẩn)\SOF205_ASS(Chuẩn)\GUI\obj\Debug\GUI.FormDoanhThu.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\GUI.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\DAL.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\DTO.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\itextsharp.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\DAL.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\DTO.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\bin\Debug\itextsharp.xml
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormDoanhThu.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormPhim.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormPhong.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FQLNV.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormChonGhe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormDatVe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormPhimTrucTuyen.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormDN.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormDoiMatKhau1.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormThongKe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FormXacNhanVe.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FQuanLy.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.FSuat.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.exe
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS\GUI\obj\Debug\GUI.pdb

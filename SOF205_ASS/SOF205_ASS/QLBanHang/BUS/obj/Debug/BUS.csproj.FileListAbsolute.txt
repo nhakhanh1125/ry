@@ -1,0 +1,33 @@
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\BUS.dll
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\BUS.pdb
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\DAL.dll
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\DTO.dll
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\DAL.pdb
+D:\SOF205_ASS\QLBanHang\BUS\bin\Debug\DTO.pdb
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.dll
+D:\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.pdb
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\BUS.dll
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\BUS.pdb
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\DAL.dll
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\DTO.dll
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\DAL.pdb
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\DTO.pdb
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.dll
+D:\Hoc\CNTT\SOF25\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\BUS.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\BUS.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\DAL.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\DTO.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\DAL.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\bin\Debug\DTO.pdb
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.dll
+C:\Users\Lenovo\OneDrive\Desktop\SOF205_ASS (1) - Copy\SOF205_ASS\SOF205_ASS\QLBanHang\BUS\obj\Debug\BUS.pdb
