@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+﻿name: CI/CD Pipeline for ASP.NET Core
 
 on:
   push:
@@ -12,45 +12,47 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: 🛎 Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: 🏗 Setup .NET
+        uses: actions/setup-dotnet@v3
         with:
-          node-version: '20'
+          dotnet-version: 8.0.x # Hoặc phiên bản phù hợp với dự án của bạn
 
-      - name: Install dependencies
-        run: npm install
+      - name: 📦 Restore dependencies
+        run: dotnet restore
 
-      - name: Build project
-        run: npm run build
+      - name: 🚀 Build project
+        run: dotnet build --configuration Release --no-restore
 
   test:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Checkout code
+      - name: 🛎 Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: 🏗 Setup .NET
+        uses: actions/setup-dotnet@v3
         with:
-          node-version: '20'
+          dotnet-version: 8.0.x # Đảm bảo đúng phiên bản
 
-      - name: Install dependencies
-        run: npm install
+      - name: 📦 Restore dependencies
+        run: dotnet restore
 
-      - name: Run tests
-        run: npm test
+      - name: 🧪 Run Unit Tests
+        run: dotnet test --configuration Release --no-restore --verbosity normal
 
   deploy:
     runs-on: ubuntu-latest
     needs: test
     if: github.ref == 'refs/heads/main'
     steps:
-      - name: Checkout code
+      - name: 🛎 Checkout code
         uses: actions/checkout@v3
 
-      - name: Deploy Application
-        run: ./deploy.sh
+      - name: 🚀 Deploy Application
+        run: |
+          echo "Bắt đầu deploy..."
+          # Thêm lệnh deploy theo môi trường của bạn (Azure, AWS, VPS, ...)
