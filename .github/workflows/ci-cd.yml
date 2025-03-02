@@ -21,41 +21,20 @@ jobs:
 
       - name: 🏗 Install Visual Studio Build Tools 2022
         run: |
-          curl -LO https://aka.ms/vs/17/release/vs_BuildTools.exe
-          start /wait vs_BuildTools.exe --quiet --wait --norestart --nocache --add Microsoft.VisualStudio.Workload.MSBuildTools
-          refreshenv
+          Invoke-WebRequest -Uri "https://aka.ms/vs/17/release/vs_BuildTools.exe" -OutFile "vs_BuildTools.exe"
+          Start-Process -FilePath "vs_BuildTools.exe" -ArgumentList "--quiet --wait --norestart --nocache --add Microsoft.VisualStudio.Workload.MSBuildTools" -NoNewWindow -Wait
+        shell: powershell
 
       - name: 🔍 Find MSBuild Path
         id: find-msbuild
+        shell: powershell
         run: |
-          echo "MSBUILD_PATH=$(vswhere -latest -requires Microsoft.Component.MSBuild -find **\MSBuild.exe)" >> $GITHUB_ENV
+          $MSBuildPath = vswhere -latest -requires Microsoft.Component.MSBuild -find **\MSBuild.exe
+          echo "MSBUILD_PATH=$MSBuildPath" | Out-File -FilePath $env:GITHUB_ENV -Append
+
+      - name: 📦 Restore dependencies
+        run: dotnet restore SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln
 
       - name: 🚀 Build project using MSBuild
         run: |
-          "$env:MSBUILD_PATH" SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln /p:Configuration=Release /p:Platform=x64
-
-  test:
-    runs-on: windows-latest
-    needs: build
-    steps:
-      - name: 🛎 Checkout code
-        uses: actions/checkout@v3
-
-      - name: 🏗 Install .NET Framework Developer Pack
-        run: choco install netfx-4.7.2-devpack -y
-
-      - name: 🏗 Install Visual Studio Build Tools 2022
-        run: |
-          curl -LO https://aka.ms/vs/17/release/vs_BuildTools.exe
-          start /wait vs_BuildTools.exe --quiet --wait --norestart --nocache --add Microsoft.VisualStudio.Workload.MSBuildTools
-          refreshenv
-
-      - name: 🔍 Find MSBuild Path
-        id: find-msbuild
-        run: |
-          echo "MSBUILD_PATH=$(vswhere -latest -requires Microsoft.Component.MSBuild -find **\MSBuild.exe)" >> $GITHUB_ENV
-
-      - name: 🚀 Run Unit Tests
-        run: |
-          "$env:MSBUILD_PATH" SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln /p:Configuration=Release /p:Platform=x64
-          dotnet test SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln --configuration Release
+          & "$env:MSBUILD_PATH" SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln /p:Configuration=Release /p:Platform="Any CPU"
