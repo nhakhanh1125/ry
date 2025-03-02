@@ -29,18 +29,28 @@ jobs:
         id: find-msbuild
         shell: powershell
         run: |
-          $MSBuildPath = vswhere -latest -requires Microsoft.Component.MSBuild -find **\MSBuild.exe
-          if ($MSBuildPath -eq $null -or $MSBuildPath -eq "") {
+          # Tìm tất cả MSBuild.exe
+          $MSBuildPaths = vswhere -latest -requires Microsoft.Component.MSBuild -find **\MSBuild.exe
+
+          # Nếu có nhiều MSBuild.exe, chọn cái đầu tiên
+          if ($MSBuildPaths -is [array]) {
+            $MSBuildPath = $MSBuildPaths[0]
+          } else {
+            $MSBuildPath = $MSBuildPaths
+          }
+
+          # Kiểm tra nếu không tìm thấy MSBuild
+          if (-not $MSBuildPath) {
             Write-Host "❌ Không tìm thấy MSBuild.exe! Kiểm tra lại cài đặt."
             exit 1
-          } else {
-            echo "✅ Tìm thấy MSBuild tại: $MSBuildPath"
-            echo "MSBUILD_PATH=$MSBuildPath" | Out-File -FilePath $env:GITHUB_ENV -Append
           }
+
+          Write-Host "✅ Đã tìm thấy MSBuild tại: $MSBuildPath"
+          echo "MSBUILD_PATH=$MSBuildPath" | Out-File -FilePath $env:GITHUB_ENV -Append
 
       - name: 📦 Restore dependencies
         run: dotnet restore SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln
 
       - name: 🚀 Build project using MSBuild
         run: |
-          & "$env:MSBUILD_PATH" SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln /p:Configuration=Release /p:Platform="Any CPU"
+          & "$(echo $env:MSBUILD_PATH)" SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln /p:Configuration=Release /p:Platform="Any CPU"
