@@ -18,13 +18,13 @@ jobs:
       - name: 🏗 Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: 8.0.x # Hoặc phiên bản phù hợp với dự án của bạn
+          dotnet-version: '8.0'
 
       - name: 📦 Restore dependencies
         run: dotnet restore
 
       - name: 🚀 Build project
-        run: dotnet build  cd $env:GITHUB_WORKSPACE\ci-cd
+        run: dotnet build --configuration Release
 
   test:
     runs-on: ubuntu-latest
@@ -36,13 +36,13 @@ jobs:
       - name: 🏗 Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: 8.0.x # Đảm bảo đúng phiên bản
+          dotnet-version: '8.0'
 
       - name: 📦 Restore dependencies
         run: dotnet restore
 
       - name: 🧪 Run Unit Tests
-        run: dotnet test cd $env:GITHUB_WORKSPACE\ci-cd
+        run: dotnet test --logger "trx;LogFileName=test-results.trx"
 
   deploy:
     runs-on: ubuntu-latest
@@ -55,4 +55,5 @@ jobs:
       - name: 🚀 Deploy Application
         run: |
           echo "Bắt đầu deploy..."
-          # Thêm lệnh deploy theo môi trường của bạn (Azure, AWS, VPS, ...)
+          # Thêm lệnh deploy nếu cần (Azure, AWS, VPS, ...)
+
