@@ -30,7 +30,13 @@ jobs:
         shell: powershell
         run: |
           $MSBuildPath = vswhere -latest -requires Microsoft.Component.MSBuild -find **\MSBuild.exe
-          echo "MSBUILD_PATH=$MSBuildPath" | Out-File -FilePath $env:GITHUB_ENV -Append
+          if ($MSBuildPath -eq $null -or $MSBuildPath -eq "") {
+            Write-Host "❌ Không tìm thấy MSBuild.exe! Kiểm tra lại cài đặt."
+            exit 1
+          } else {
+            echo "✅ Tìm thấy MSBuild tại: $MSBuildPath"
+            echo "MSBUILD_PATH=$MSBuildPath" | Out-File -FilePath $env:GITHUB_ENV -Append
+          }
 
       - name: 📦 Restore dependencies
         run: dotnet restore SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln
