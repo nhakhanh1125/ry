@@ -10,22 +10,26 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest  # CHẠY TRÊN WINDOWS
+    runs-on: windows-latest  # Chạy trên Windows
 
     steps:
       - name: 🛎 Checkout code
         uses: actions/checkout@v3
 
-      - name: 🏗 Setup .NET Framework
+      - name: 🏗 Install .NET Framework Developer Pack
+        run: choco install netfx-4.7.2-devpack -y  # Cài đặt Developer Pack 4.7.2
+
+      - name: 🏗 Install MSBuild Tools
         run: |
-          choco install dotnetfx --version=4.7.2  # Cài đặt .NET Framework 4.7.2
-          choco install dotnet-sdk --version=8.0.406  # Đảm bảo có .NET SDK 8.0
+          choco install visualstudio2019-buildtools --params "--add Microsoft.VisualStudio.Workload.MSBuildTools" -y
+          refreshenv  # Load lại biến môi trường
 
       - name: 📦 Restore dependencies
         run: dotnet restore SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln
 
-      - name: 🚀 Build project
-        run: dotnet build SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln --configuration Release
+      - name: 🚀 Build project using MSBuild
+        run: |
+          "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\MSBuild.exe" SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln /p:Configuration=Release /p:Platform=x64
 
   test:
     runs-on: windows-latest
@@ -34,15 +38,21 @@ jobs:
       - name: 🛎 Checkout code
         uses: actions/checkout@v3
 
-      - name: 🏗 Setup .NET Framework
+      - name: 🏗 Install .NET Framework Developer Pack
+        run: choco install netfx-4.7.2-devpack -y  # Cài đặt Developer Pack 4.7.2
+
+      - name: 🏗 Install MSBuild Tools
         run: |
-          choco install dotnetfx --version=4.7.2  # Cài đặt .NET Framework 4.7.2
+          choco install visualstudio2019-buildtools --params "--add Microsoft.VisualStudio.Workload.MSBuildTools" -y
+          refreshenv
 
       - name: 📦 Restore dependencies
         run: dotnet restore SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln
 
       - name: 🧪 Run Unit Tests
-        run: dotnet test SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln --configuration Release
+        run: |
+          "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\MSBuild.exe" SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln /p:Configuration=Release /p:Platform=x64
+          dotnet test SOF205_ASS/SOF205_ASS/QLBanHang/QLBanVeXemPhim.sln --configuration Release
 
   deploy:
     runs-on: windows-latest
