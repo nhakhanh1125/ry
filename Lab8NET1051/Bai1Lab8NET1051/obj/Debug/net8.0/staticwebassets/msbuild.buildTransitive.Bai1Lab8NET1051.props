@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Bai1Lab8NET1051.props" />
-</Project>
